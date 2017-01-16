@@ -42,7 +42,7 @@ protected:
 
     cocos2d::Director::Projection _preProjection;
 };
-
+// 黄玉辉：上次看到这里
 class NodeTest2 : public TestCocosNodeDemo
 {
 public:
